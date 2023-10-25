@@ -1,0 +1,1 @@
+g++ -o sample main.cpp -std=c++17 -lmylib -L../library/build/
